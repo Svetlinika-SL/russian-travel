@@ -6,17 +6,20 @@
 Сайт адаптирован для просмотра на экранах различных устройств от 320 пикселей до широких экранов 1280 пикселей.
 
 ## Технологии:
-Grid Layout
-Flexbox
-Медиазапросы
-Подключение шрифтов
+Grid Layout  
+Flexbox  
+Медиазапросы  
+Подключение шрифтов  
 
 ## Инструкция:
 Открыть файл index.html через любой браузер
 
 ## Планы доработки проекта:
-Применить JavaScript
-Изменить язык страницы English version
+ Применить JavaScript  
+Возможность использования English version  
+
+## Ссылка на макет в Figma:
+https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0
 
 ## Ссылка на репозиторий: 
-https://Svetlinika-SL/russian-travel/
+https://svetlinika-sl.github.io/russian-travel/
