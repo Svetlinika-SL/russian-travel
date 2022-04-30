@@ -10,7 +10,7 @@
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
   .photo-grid {
     max-width: 928px;
-    grid-gap: 14px;
+    gap: 14px;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   }
 }

@@ -22,7 +22,7 @@
 
 @media screen and (max-width: 767px) {
   .place {
-    padding: 25px 0;
+    padding: 0 0 25px 0;
     grid-template-columns: minmax(288px, 1fr);
     gap: 32px;
   }
